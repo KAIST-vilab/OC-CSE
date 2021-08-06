@@ -1,7 +1,7 @@
 
 # Unlocking the Potential of Ordinary Classifier: Class-specific Adversarial Erasing Framework for Weakly Supervised Semantic Segmentation
 
-This repository contains the code (in PyTorch) for "[Unlocking the Potential of Ordinary Classifier: Class-specific Adversarial Erasing Framework for Weakly Supervised Semantic Segmentation](TBD)" paper (ICCV 2021) by [Hyeokjun Kweon](https://github.com/sangrockEG) and [Sung-Hoon Yoon](https://github.com/sunghoonYoon).
+This repository contains the official implementation (in PyTorch) of the paper "[Unlocking the Potential of Ordinary Classifier: Class-specific Adversarial Erasing Framework for Weakly Supervised Semantic Segmentation](TBD)" paper (ICCV 2021) by [Hyeokjun Kweon](https://github.com/sangrockEG) and [Sung-Hoon Yoon](https://github.com/sunghoonYoon).
 
 <img src = "https://user-images.githubusercontent.com/42232407/128456385-a596a274-5803-44b4-8720-3830aad753de.PNG" width="60%"><img src = "https://user-images.githubusercontent.com/42232407/128457060-4777b7d3-0ec8-4b61-8ea5-e9149fd98de8.png" width="40%">
 
