@@ -28,8 +28,10 @@ conda env create -f od_cse.yaml
 ```
 * [The PASCAL VOC 2012 development kit](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/):
 You need to specify place VOC2012 under ./data folder.
-* ImageNet-pretrained weights for resnet38d are from [[resnet_38d.params]](https://github.com/itijyou/ademxapp)
-* PASCAL-pretrained weights for resnet38d are from [[od_cam.pth]](https://github.com/jiwoon-ahn/psa)
+* ImageNet-pretrained weights for resnet38d are from [[resnet_38d.params]](https://github.com/itijyou/ademxapp).
+You need to place the weights as ./pretrained/resnet_38d.params.
+* PASCAL-pretrained weights for resnet38d are from [[od_cam.pth]](https://github.com/jiwoon-ahn/psa).
+You need to place the weights as ./pretrained/od_cam.pth.
 ## Usage
 ### Training
 * Please specify the name of your experiment.
