@@ -267,3 +267,4 @@ class model_WSSS():
         self.running_loss = [0] * len(self.loss_names)
         self.right_count = [0] * len(self.acc_names)
         self.wrong_count = [0] * len(self.acc_names)
+        self.count = 0
