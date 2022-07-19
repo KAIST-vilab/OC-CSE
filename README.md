@@ -52,4 +52,4 @@ python evaluation.py --name [exp_name] --task cam --dict_dir dict
 python evaluation.py --name [exp_name] --task crf --dict_dir crf/06
 ```
 
-we heavily borrow the work from [[AffinityNet]](https://github.com/jiwoon-ahn/psa) repository. Thanks for the excellent codes!
+we heavily borrow the work from [AffinityNet](https://github.com/jiwoon-ahn/psa) repository. Thanks for the excellent codes!
